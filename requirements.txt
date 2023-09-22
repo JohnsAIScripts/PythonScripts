@@ -1,0 +1,23 @@
+--upgrade pip
+scikit-learn
+matplotlib
+numpy
+pandas
+tensorflow
+tf-nightly
+psutil
+pywin32
+pywinauto
+xlsxwriter
+seaborn
+pycuda
+ai_benchmark
+paramiko
+statsmodels
+cython
+convertdate
+lunarcalendar
+holidays
+prophet --no-cache-dir
+netifaces
+pygame
