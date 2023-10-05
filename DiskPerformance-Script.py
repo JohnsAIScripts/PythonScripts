@@ -7,7 +7,7 @@ print("===== DISK PERFORMANCE TEST =====")
 print("")
 
 # Define the different sizes of data to be read and written
-sizes = [1024000, 4096000, 16384000, 32123000, 65536000, 128321000, 262144000, 512144000, 1062144000]
+sizes = [1024000, 4096000, 12006000, 16384000, 25584000, 32123000, 65536000, 128321000, 262144000, 512144000, 1062144000]
 
 # Define the path to the file to be used for the test
 test_file_path = "C:/disk_test.txt"
